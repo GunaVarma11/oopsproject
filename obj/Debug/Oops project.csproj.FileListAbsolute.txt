@@ -1,0 +1,7 @@
+C:\Users\gunav\Oops project\Oops project\bin\Debug\Oops project.exe.config
+C:\Users\gunav\Oops project\Oops project\bin\Debug\Oops project.exe
+C:\Users\gunav\Oops project\Oops project\bin\Debug\Oops project.pdb
+C:\Users\gunav\Oops project\Oops project\obj\Debug\Oops project.csproj.AssemblyReference.cache
+C:\Users\gunav\Oops project\Oops project\obj\Debug\Oops project.csproj.CoreCompileInputs.cache
+C:\Users\gunav\Oops project\Oops project\obj\Debug\Oops project.exe
+C:\Users\gunav\Oops project\Oops project\obj\Debug\Oops project.pdb
